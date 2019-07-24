@@ -33,4 +33,11 @@ Push the changes in your local repository to GitHub.
 The first extra argument to git pull tells it which remote to give to the fetch operation:
 
  11.  $git pull origin
+ 
+ For removing the file or folder :
+ git rm -r --cached name of folder
+ git commit -m 'remove folder'
+ git push origin master
+ then remove from the master folder
+
 
