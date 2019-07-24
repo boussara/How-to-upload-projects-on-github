@@ -41,5 +41,6 @@ The first extra argument to git pull tells it which remote to give to the fetch 
  then remove from the master folder
 12. To show hidden files
   ls -la
-
+13. to show the commit
+  git log
 
