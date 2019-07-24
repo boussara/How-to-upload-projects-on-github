@@ -30,5 +30,7 @@ Push the changes in your local repository to GitHub.
 10.	$ git push origin master
 # Pushes the changes in your local repository up to the remote repository you specified as
 
+The first extra argument to git pull tells it which remote to give to the fetch operation:
 
+ 11.  $git pull origin
 
