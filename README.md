@@ -24,7 +24,7 @@ $ git init
 7.	In the Command prompt, add the URL for the remote repository where your local repository will be pushed.
 8.	$ git remote add origin remote repository URL
 9.	# Sets the new remote
-      $ git remote -v
+      $git remote add origin https://github.com/boussara/test.git
 # Verifies the new remote URL
 Push the changes in your local repository to GitHub.
 10.	$ git push origin master
