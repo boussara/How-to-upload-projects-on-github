@@ -44,3 +44,10 @@ The first extra argument to git pull tells it which remote to give to the fetch 
 13. to show the commit
   git log
 
+git checkout <comit id>
+
+to add new branch name
+git checkout -b new name
+git branch
+git branch -a
+git checkout -b 'correct' 'origin/correct'
